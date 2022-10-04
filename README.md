@@ -1,13 +1,14 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support, 最新支持 [iOS 16.0](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/16.0.zip) [(Aliyun)](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/16.0.zip) [(Gitee)](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/16.0.zip) 
+各个版本的iOS Device Support, 最新支持 [iOS 16.1](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/16.1.zip) [(Aliyun)](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/16.1.zip) [(Gitee)](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/16.1.zip) 
 * Github仓库: [https://github.com/JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
 * Aliyun仓库: [https://code.aliyun.com/hanjinjun/iOSDeviceSupoort](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort)
 * Gitee仓库: [https://gitee.com/Han0/iOSDeviceSupport](https://gitee.com/Han0/iOSDeviceSupport)
 
 ## Usage
 从下面的表中找到对应的版本下载，移动到Xcode目录
+
+终端输入命令直接打开文件夹:
 ```
-终端输入命令直接打开文件夹
 open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 ```
 
@@ -15,6 +16,7 @@ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Devi
 -------
 | 版本 | 下载地址1 | 下载地址2 | 下载地址3
 | --- | --- | --- | --- |
+| iOS 16.1 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/16.1.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/16.1.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/16.1.zip) |
 | iOS 16.0 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/16.0.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/16.0.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/16.0.zip) |
 | --- | --- | --- | --- |
 | iOS 15.7 | [GitHub](https://github.com/JinjunHan/iOSDeviceSupport/raw/master/DeviceSupport/15.7.zip) | [Aliyun](https://code.aliyun.com/hanjinjun/iOSDeviceSupoort/raw/master/DeviceSupport/15.7.zip) | [Gitee](https://gitee.com/Han0/iOSDeviceSupport/raw/master/DeviceSupport/15.7.zip) |
